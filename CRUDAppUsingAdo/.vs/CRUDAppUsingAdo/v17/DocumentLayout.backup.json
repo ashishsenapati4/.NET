@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\crudappusingado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\crudappusingado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|c:\\projects\\dot net\\crudappusingado\\crudappusingado\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76406C61-7FAA-4F10-9D63-DE9A5D4019D0}|CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj|solutionrelative:crudappusingado\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CRUDAppUsingAdo\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T06:43:18.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CRUDAppUsingAdo\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T16:48:28.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CRUDAppUsingAdo\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T16:44:31.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CRUDAppUsingAdo\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T16:23:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDAppUsingAdo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T16:00:17.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDAppUsingAdo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:56:57.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRUDAppUsingAdo.csproj",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj",
+              "RelativeToolTip": "CRUDAppUsingAdo\\CRUDAppUsingAdo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T15:34:18.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\EmployeeDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\EmployeeDataAccessLayer.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\EmployeeDataAccessLayer.cs",
+              "RelativeToolTip": "CRUDAppUsingAdo\\EmployeeDataAccessLayer.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswGcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T15:34:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUDAppUsingAdo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:30:11.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "CRUDAppUsingAdo\\ConnectionString.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CRUDAppUsingAdo\\CRUDAppUsingAdo\\ConnectionString.cs",
+              "RelativeToolTip": "CRUDAppUsingAdo\\ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:20:41.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
