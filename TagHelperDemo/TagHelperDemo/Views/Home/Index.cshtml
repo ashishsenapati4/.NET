@@ -1,0 +1,92 @@
+﻿@model TagHelperDemo.Models.Employee;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            <form class="d-grid" asp-controller="Home" asp-action="Index" method="post">
+
+                <!-- Lable Tag Helper -->
+                <label asp-for="Name">Enter Name:</label>
+                <input asp-for="Name" placeholder="Enter Name" class="form-control"/>
+                <br/>
+                <input asp-for="Age" placeholder="Enter Age" class="form-control"/>
+                <br />
+
+                <!-- Select Tag Helper to create Dropdown -->
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                    <option value="">Select Gender</option>
+                </select>
+
+                <br/>
+
+                <!-- Input tag helper -->
+
+                <input asp-for="Designation" placeholder="Enter Designation" class="form-control" />
+                <br />
+                <input asp-for="Salary" placeholder="Enter Salary" class="form-control" />
+
+                <br/>
+
+                <!-- Tag helpers for radio buttons -->
+
+                <label>
+                    Married:
+                </label>
+
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="Yes" asp-for="Married">
+                    <label class="form-check-label" for="flexRadioDefault">
+                        Yes
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="No" asp-for="Married">
+                    <label class="form-check-label" for="flexRadioDefault">
+                        No
+                    </label>
+                </div>
+
+                <br/>
+
+                <!-- Textarea tag helper -->
+
+                <textarea asp-for="Description" class="form-control" placeholder="Enter Description" rows="5" ></textarea>
+
+                <br/>
+                <button type="submit" class="btn btn-outline-primary">Submit</button>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<a href="/Home/Contact/1">Contact Page 1</a>
+<br />
+@Html.ActionLink("Contact Page 2", "Contact", "Home", new { id = 2 })
+<br />
+<a href="@Url.Action("Contact", "Home", new { id = 3 })">Contact Page 3</a>
+
+<br /> 
+
+<!-- Using Tag helper-->
+<a asp-action="Contact" asp-controller="Home" asp-route-id="4">Contact Page 4</a> *@
+
+@* <a href="/Home/Edit/1">Edit Page 1</a>
+<br />
+@Html.ActionLink("Edit Page 2", "Edit", "Home", new { id = 2 })
+<br />
+<a href="@Url.Action("Edit", "Home", new { id = 3 })">Edit Page 3</a>
+
+<br />
+
+<!-- Using Tag helper-->
+<a asp-action="Edit" asp-controller="Home" asp-route-id="4">Edit Page 4</a> *@
