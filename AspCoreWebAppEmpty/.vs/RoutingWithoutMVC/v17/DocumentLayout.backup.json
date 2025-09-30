@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|c:\\projects\\dot net\\aspcorewebappempty\\aspcorewebappempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|solutionrelative:aspcorewebappempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|c:\\projects\\dot net\\aspcorewebappempty\\aspcorewebappempty\\homecontroller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|solutionrelative:aspcorewebappempty\\homecontroller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|c:\\projects\\dot net\\aspcorewebappempty\\aspcorewebappempty\\homecontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|solutionrelative:aspcorewebappempty\\homecontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|c:\\projects\\dot net\\aspcorewebappempty\\aspcorewebappempty\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|solutionrelative:aspcorewebappempty\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|c:\\projects\\dot net\\aspcorewebappempty\\aspcorewebappempty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|solutionrelative:aspcorewebappempty\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|c:\\projects\\dot net\\aspcorewebappempty\\aspcorewebappempty\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|solutionrelative:aspcorewebappempty\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|c:\\projects\\dot net\\aspcorewebappempty\\aspcorewebappempty\\routingwithoutmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|solutionrelative:aspcorewebappempty\\routingwithoutmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|c:\\projects\\dot net\\aspcorewebappempty\\aspcorewebappempty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E6CBA70-0F8E-48AF-B960-D44EDFAE7D35}|AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj|solutionrelative:aspcorewebappempty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "AspCoreWebAppEmpty\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "AspCoreWebAppEmpty\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T05:38:32.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\HomeController\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspCoreWebAppEmpty\\HomeController\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\HomeController\\HomeController.cs",
+              "RelativeToolTip": "AspCoreWebAppEmpty\\HomeController\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:20:56.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\Program.cs",
+              "RelativeDocumentMoniker": "AspCoreWebAppEmpty\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\Program.cs",
+              "RelativeToolTip": "AspCoreWebAppEmpty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:11:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspCoreWebAppEmpty\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspCoreWebAppEmpty\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T05:21:45.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspCoreWebAppEmpty\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "AspCoreWebAppEmpty\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-17T05:34:42.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\HomeController\\UserController.cs",
+              "RelativeDocumentMoniker": "AspCoreWebAppEmpty\\HomeController\\UserController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\HomeController\\UserController.cs",
+              "RelativeToolTip": "AspCoreWebAppEmpty\\HomeController\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:34:13.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoutingWithoutMVC.csproj",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj",
+              "RelativeDocumentMoniker": "AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj",
+              "RelativeToolTip": "AspCoreWebAppEmpty\\RoutingWithoutMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T05:11:42.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\appsettings.json",
+              "RelativeDocumentMoniker": "AspCoreWebAppEmpty\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreWebAppEmpty\\AspCoreWebAppEmpty\\appsettings.json",
+              "RelativeToolTip": "AspCoreWebAppEmpty\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T05:12:37.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
