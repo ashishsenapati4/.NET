@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\InstallBootstrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|c:\\projects\\dot net\\installbootstrap\\installbootstrap\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|solutionrelative:installbootstrap\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|c:\\projects\\dot net\\installbootstrap\\installbootstrap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|solutionrelative:installbootstrap\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|c:\\projects\\dot net\\installbootstrap\\installbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|solutionrelative:installbootstrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|c:\\projects\\dot net\\installbootstrap\\installbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|solutionrelative:installbootstrap\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|c:\\projects\\dot net\\installbootstrap\\installbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|solutionrelative:installbootstrap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|c:\\projects\\dot net\\installbootstrap\\installbootstrap\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|solutionrelative:installbootstrap\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|c:\\projects\\dot net\\installbootstrap\\installbootstrap\\installbootstrap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E1FC37F-C878-44C3-84ED-CE87674A3110}|InstallBootstrap\\InstallBootstrap.csproj|solutionrelative:installbootstrap\\installbootstrap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\appsettings.json",
+              "RelativeDocumentMoniker": "InstallBootstrap\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\appsettings.json",
+              "RelativeToolTip": "InstallBootstrap\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T07:31:34.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InstallBootstrap\\Views\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "InstallBootstrap\\Views\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T06:48:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\libman.json",
+              "RelativeDocumentMoniker": "InstallBootstrap\\libman.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\libman.json",
+              "RelativeToolTip": "InstallBootstrap\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T06:46:09.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstallBootstrap.csproj",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\InstallBootstrap.csproj",
+              "RelativeDocumentMoniker": "InstallBootstrap\\InstallBootstrap.csproj",
+              "ToolTip": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\InstallBootstrap.csproj",
+              "RelativeToolTip": "InstallBootstrap\\InstallBootstrap.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T06:44:55.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\Program.cs",
+              "RelativeDocumentMoniker": "InstallBootstrap\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\Program.cs",
+              "RelativeToolTip": "InstallBootstrap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:25:09.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InstallBootstrap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InstallBootstrap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T06:24:55.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InstallBootstrap\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\InstallBootstrap\\InstallBootstrap\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InstallBootstrap\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:24:24.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
