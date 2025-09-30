@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|c:\\projects\\dot net\\viewmodelaspcore6\\viewmodelaspcore6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|solutionrelative:viewmodelaspcore6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|c:\\projects\\dot net\\viewmodelaspcore6\\viewmodelaspcore6\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|solutionrelative:viewmodelaspcore6\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|c:\\projects\\dot net\\viewmodelaspcore6\\viewmodelaspcore6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|solutionrelative:viewmodelaspcore6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|c:\\projects\\dot net\\viewmodelaspcore6\\viewmodelaspcore6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|solutionrelative:viewmodelaspcore6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|c:\\projects\\dot net\\viewmodelaspcore6\\viewmodelaspcore6\\models\\schoolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69A4AB7-B6E1-4F44-A7FB-EA0B9CBA656E}|ViewModelAspCore6\\ViewModelAspCore6.csproj|solutionrelative:viewmodelaspcore6\\models\\schoolviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Models\\SchoolViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModelAspCore6\\Models\\SchoolViewModel.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Models\\SchoolViewModel.cs",
+              "RelativeToolTip": "ViewModelAspCore6\\Models\\SchoolViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T05:26:41.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "ViewModelAspCore6\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Models\\Teacher.cs",
+              "RelativeToolTip": "ViewModelAspCore6\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T05:25:53.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewModelAspCore6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewModelAspCore6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T05:11:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewModelAspCore6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewModelAspCore6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T05:09:28.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ViewModelAspCore6\\Models\\Student.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ViewModelAspCore6\\ViewModelAspCore6\\Models\\Student.cs",
+              "RelativeToolTip": "ViewModelAspCore6\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T05:08:11.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
