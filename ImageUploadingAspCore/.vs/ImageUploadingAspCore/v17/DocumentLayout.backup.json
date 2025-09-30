@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\models\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\models\\imagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|c:\\projects\\dot net\\imageuploadingaspcore\\imageuploadingaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C1CCEF7-4D68-4411-9E06-1AE7DD6A5083}|ImageUploadingAspCore\\ImageUploadingAspCore.csproj|solutionrelative:imageuploadingaspcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ImageUploadingAspCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T05:58:32.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ImageUploadingAspCore\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T05:22:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "ImageUploadingAspCore\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:36:30.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "ImageUploadingAspCore\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T04:35:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ImageUploadingAspCore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:30:08.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ImageUploadingAspCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:20:00.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Program.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Program.cs",
+              "RelativeToolTip": "ImageUploadingAspCore\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:11:38.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ImageUploadingAspCore\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T04:11:27.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\appsettings.json",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\appsettings.json",
+              "RelativeToolTip": "ImageUploadingAspCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T04:00:01.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Models\\Product.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Models\\Product.cs",
+              "RelativeToolTip": "ImageUploadingAspCore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:46:09.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Models\\ImageDBContext.cs",
+              "RelativeDocumentMoniker": "ImageUploadingAspCore\\Models\\ImageDBContext.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\ImageUploadingAspCore\\ImageUploadingAspCore\\Models\\ImageDBContext.cs",
+              "RelativeToolTip": "ImageUploadingAspCore\\Models\\ImageDBContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:46:02.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
