@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\PartialViewAspCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|c:\\projects\\dot net\\partialviewaspcore\\partialviewaspcore\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|solutionrelative:partialviewaspcore\\views\\home\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|c:\\projects\\dot net\\partialviewaspcore\\partialviewaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|solutionrelative:partialviewaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|c:\\projects\\dot net\\partialviewaspcore\\partialviewaspcore\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|solutionrelative:partialviewaspcore\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|c:\\projects\\dot net\\partialviewaspcore\\partialviewaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|solutionrelative:partialviewaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|c:\\projects\\dot net\\partialviewaspcore\\partialviewaspcore\\views\\shared\\_employeenames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|solutionrelative:partialviewaspcore\\views\\shared\\_employeenames.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|c:\\projects\\dot net\\partialviewaspcore\\partialviewaspcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6893F4D0-875E-47CC-8C41-F19087510B04}|PartialViewAspCore\\PartialViewAspCore.csproj|solutionrelative:partialviewaspcore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ProductPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Shared\\_ProductPartial.cshtml",
+              "RelativeDocumentMoniker": "PartialViewAspCore\\Views\\Shared\\_ProductPartial.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Shared\\_ProductPartial.cshtml",
+              "RelativeToolTip": "PartialViewAspCore\\Views\\Shared\\_ProductPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T14:03:00.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Home\\Product.cshtml",
+              "RelativeDocumentMoniker": "PartialViewAspCore\\Views\\Home\\Product.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Home\\Product.cshtml",
+              "RelativeToolTip": "PartialViewAspCore\\Views\\Home\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T14:02:56.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartialViewAspCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartialViewAspCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:06:52.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PartialViewAspCore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PartialViewAspCore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T06:06:43.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PartialViewAspCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PartialViewAspCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T06:05:43.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_EmployeeNames.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Shared\\_EmployeeNames.cshtml",
+              "RelativeDocumentMoniker": "PartialViewAspCore\\Views\\Shared\\_EmployeeNames.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\PartialViewAspCore\\PartialViewAspCore\\Views\\Shared\\_EmployeeNames.cshtml",
+              "RelativeToolTip": "PartialViewAspCore\\Views\\Shared\\_EmployeeNames.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T06:04:39.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
