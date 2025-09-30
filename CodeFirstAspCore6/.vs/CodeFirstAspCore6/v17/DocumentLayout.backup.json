@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|c:\\projects\\dot net\\codefirstaspcore6\\codefirstaspcore6\\codefirstaspcore6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD5CBBBD-DF77-43B2-AE95-522359B7CE54}|CodeFirstAspCore6\\CodeFirstAspCore6.csproj|solutionrelative:codefirstaspcore6\\codefirstaspcore6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstAspCore6\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T07:40:12.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstAspCore6\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T06:51:46.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstAspCore6\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T06:31:39.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstAspCore6\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-16T06:03:16.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstAspCore6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T06:44:32.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstAspCore6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:39:28.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Program.cs",
+              "RelativeToolTip": "CodeFirstAspCore6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T06:00:50.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\appsettings.json",
+              "RelativeToolTip": "CodeFirstAspCore6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T14:25:38.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "CodeFirstAspCore6\\Models\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T04:52:47.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\Models\\Student.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstAspCore6\\Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:54:57.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CodeFirstAspCore6.csproj",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\CodeFirstAspCore6.csproj",
+              "RelativeDocumentMoniker": "CodeFirstAspCore6\\CodeFirstAspCore6.csproj",
+              "ToolTip": "C:\\Projects\\DOT NET\\CodeFirstAspCore6\\CodeFirstAspCore6\\CodeFirstAspCore6.csproj",
+              "RelativeToolTip": "CodeFirstAspCore6\\CodeFirstAspCore6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T14:27:33.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
