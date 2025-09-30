@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|c:\\projects\\dot net\\databasefirstefcore\\databasefirstefcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|solutionrelative:databasefirstefcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|c:\\projects\\dot net\\databasefirstefcore\\databasefirstefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|solutionrelative:databasefirstefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|c:\\projects\\dot net\\databasefirstefcore\\databasefirstefcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|solutionrelative:databasefirstefcore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|c:\\projects\\dot net\\databasefirstefcore\\databasefirstefcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|solutionrelative:databasefirstefcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|c:\\projects\\dot net\\databasefirstefcore\\databasefirstefcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|solutionrelative:databasefirstefcore\\models\\codefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|c:\\projects\\dot net\\databasefirstefcore\\databasefirstefcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|solutionrelative:databasefirstefcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|c:\\projects\\dot net\\databasefirstefcore\\databasefirstefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|solutionrelative:databasefirstefcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|c:\\projects\\dot net\\databasefirstefcore\\databasefirstefcore\\databasefirstefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2A6F473-76DC-4DDB-9A78-8CC27309211F}|DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj|solutionrelative:databasefirstefcore\\databasefirstefcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DatabaseFirstEfCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DatabaseFirstEfCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T14:08:16.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstEfCore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DatabaseFirstEfCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:23:42.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstEfCore\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Program.cs",
+              "RelativeToolTip": "DatabaseFirstEfCore\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:18:54.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\appsettings.json",
+              "RelativeDocumentMoniker": "DatabaseFirstEfCore\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\appsettings.json",
+              "RelativeToolTip": "DatabaseFirstEfCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-17T07:15:20.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstEfCore\\Models\\Employee.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Models\\Employee.cs",
+              "RelativeToolTip": "DatabaseFirstEfCore\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:13:10.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstEfCore\\Models\\Student.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Models\\Student.cs",
+              "RelativeToolTip": "DatabaseFirstEfCore\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:01:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Models\\CodeFirstDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseFirstEfCore\\Models\\CodeFirstDbContext.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\Models\\CodeFirstDbContext.cs",
+              "RelativeToolTip": "DatabaseFirstEfCore\\Models\\CodeFirstDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T07:01:18.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseFirstEfCore.csproj",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj",
+              "RelativeDocumentMoniker": "DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj",
+              "ToolTip": "C:\\Projects\\DOT NET\\DatabaseFirstEfCore\\DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj",
+              "RelativeToolTip": "DatabaseFirstEfCore\\DatabaseFirstEfCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-17T06:32:35.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
