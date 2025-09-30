@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36105.17 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBoxesAspCore6", "CheckBoxesAspCore6\CheckBoxesAspCore6.csproj", "{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ABA271D-3855-4705-9525-39FDC807FF60}
+	EndGlobalSection
+EndGlobal

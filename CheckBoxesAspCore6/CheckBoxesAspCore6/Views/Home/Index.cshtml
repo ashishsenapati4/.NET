@@ -1,0 +1,42 @@
+﻿@model CheckBoxesAspCore6.Models.ViewModell
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<form asp-controller="Home" asp-action="Index" method="post">
+    <label>Sports you like: </label>
+    @foreach(var checkBox in Model.CheckBoxes)
+    {
+        <div class="form-check">
+
+        <input class="form-check-input" type="checkbox"
+        value="@checkBox.Value" 
+        id="CheckBox_@checkBox.Value" 
+        name="Sports"
+        checked=@checkBox.IsChecked>
+
+        <label class="form-check-label" for="flexCheckDefault">
+            @checkBox.Text
+        </label>
+        </div>
+    }
+
+    <br />
+    <button class="btn btn-success" value="Submit">Accept</button>
+</form>
+
+@* <form asp-controller="Home" asp-action="Index" method="post">
+    
+    </div>
+
+    <input type="hidden" asp-for="Text" />
+
+    <br />
+    <button class="btn btn-success" value="Submit">Accept</button>
+</form> *@

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}|CheckBoxesAspCore6\\CheckBoxesAspCore6.csproj|c:\\projects\\dot net\\checkboxesaspcore6\\checkboxesaspcore6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}|CheckBoxesAspCore6\\CheckBoxesAspCore6.csproj|solutionrelative:checkboxesaspcore6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}|CheckBoxesAspCore6\\CheckBoxesAspCore6.csproj|c:\\projects\\dot net\\checkboxesaspcore6\\checkboxesaspcore6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}|CheckBoxesAspCore6\\CheckBoxesAspCore6.csproj|solutionrelative:checkboxesaspcore6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}|CheckBoxesAspCore6\\CheckBoxesAspCore6.csproj|c:\\projects\\dot net\\checkboxesaspcore6\\checkboxesaspcore6\\models\\viewmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}|CheckBoxesAspCore6\\CheckBoxesAspCore6.csproj|solutionrelative:checkboxesaspcore6\\models\\viewmodell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}|CheckBoxesAspCore6\\CheckBoxesAspCore6.csproj|c:\\projects\\dot net\\checkboxesaspcore6\\checkboxesaspcore6\\models\\checkboxoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDFAC6A-AD63-46B3-BC2F-5CB50DF76EA5}|CheckBoxesAspCore6\\CheckBoxesAspCore6.csproj|solutionrelative:checkboxesaspcore6\\models\\checkboxoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckBoxOptions.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\CheckBoxesAspCore6\\Models\\CheckBoxOptions.cs",
+              "RelativeDocumentMoniker": "CheckBoxesAspCore6\\Models\\CheckBoxOptions.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\CheckBoxesAspCore6\\Models\\CheckBoxOptions.cs",
+              "RelativeToolTip": "CheckBoxesAspCore6\\Models\\CheckBoxOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T16:26:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\CheckBoxesAspCore6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CheckBoxesAspCore6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\CheckBoxesAspCore6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CheckBoxesAspCore6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T15:43:58.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\CheckBoxesAspCore6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CheckBoxesAspCore6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\CheckBoxesAspCore6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CheckBoxesAspCore6\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:41:55.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModell.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\CheckBoxesAspCore6\\Models\\ViewModell.cs",
+              "RelativeDocumentMoniker": "CheckBoxesAspCore6\\Models\\ViewModell.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\CheckBoxesAspCore6\\CheckBoxesAspCore6\\Models\\ViewModell.cs",
+              "RelativeToolTip": "CheckBoxesAspCore6\\Models\\ViewModell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T15:41:14.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
