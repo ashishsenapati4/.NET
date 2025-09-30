@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\AspCoreViewImport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|c:\\projects\\dot net\\aspcoreviewimport\\aspcoreviewimport\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|c:\\projects\\dot net\\aspcoreviewimport\\aspcoreviewimport\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|c:\\projects\\dot net\\aspcoreviewimport\\aspcoreviewimport\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|c:\\projects\\dot net\\aspcoreviewimport\\aspcoreviewimport\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|c:\\projects\\dot net\\aspcoreviewimport\\aspcoreviewimport\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|c:\\projects\\dot net\\aspcoreviewimport\\aspcoreviewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|c:\\projects\\dot net\\aspcoreviewimport\\aspcoreviewimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46926387-E5ED-43C6-BB8C-AA03B602C334}|AspCoreViewImport\\AspCoreViewImport.csproj|solutionrelative:aspcoreviewimport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Program.cs",
+              "RelativeDocumentMoniker": "AspCoreViewImport\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Program.cs",
+              "RelativeToolTip": "AspCoreViewImport\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:30:50.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "AspCoreViewImport\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "AspCoreViewImport\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T16:30:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspCoreViewImport\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspCoreViewImport\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T16:29:28.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AspCoreViewImport\\Models\\Student.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Models\\Student.cs",
+              "RelativeToolTip": "AspCoreViewImport\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:27:57.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspCoreViewImport\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspCoreViewImport\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:26:11.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "AspCoreViewImport\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "AspCoreViewImport\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T16:52:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspCoreViewImport\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\AspCoreViewImport\\AspCoreViewImport\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspCoreViewImport\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T17:04:36.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
