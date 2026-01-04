@@ -1,0 +1,43 @@
+﻿@model IEnumerable<BudgetBuddy.Models.Transaction>
+
+@{
+    ViewData["Title"] = "Transactions";
+    ViewData["PageAction"] = "+ New Transaction";
+    ViewData["PageActionUrl"] = "/Transaction/AddOrEdit";
+}
+<h3>@TempData["msg"]</h3>
+<div class="row">
+    <div class="col-md-7">
+            <div class="widget">
+            <ejs-grid id="transactions" dataSource="@Model" gridLines="None" allowSorting="true" allowPaging="true">
+                <e-grid-pagesettings pageSize="7"></e-grid-pagesettings>
+                <e-grid-columns>
+                    <e-grid-column headerText="Category" field="CategoryTitleWithIcon"></e-grid-column>
+                    <e-grid-column headerText="Date" field="Date" width="110px" type="date" format="MMM-dd-yy" textAlign="Left"></e-grid-column>
+                    <e-grid-column headerText="Amount" field="FormattedAmount" width="110px" textAlign="Right"></e-grid-column>
+                    <e-grid-column headerText="Action" template="#actionColumnTemplate" width="100px"></e-grid-column>
+                </e-grid-columns>
+            </ejs-grid>
+            </div>
+    </div>
+    <div class="col-md-5">
+        <div class="widget h-100 d-flex justify-content-center align-items-center">
+            <i class="fa-solid fa-shapes fa-2xl"></i>
+        </div>
+    </div>
+</div>
+<script id="actionColumnTemplate" type="text/x-template">
+    <div class="d-flex flex-row justify-content-start">
+        <a class="btn btn-sm no-a-decoration" href="/Transaction/AddOrEdit/${TransactionId}">
+            <i class="fa-solid fa-pencil fa-lg"></i>
+        </a>
+
+        <form action="/Transaction/Delete" method="post">
+            @Html.AntiForgeryToken()
+             <input type="hidden" name="id" value="${TransactionId}"/>
+             <button class="btn btn-sm btn-link no-a-decoration" type="submit" onclick="return confirm(&quot; Are you sure?&quot)">
+                 <i class="fa-solid fa-trash fa-lg"></i>
+             </button>
+        </form>
+    </div>
+</script>

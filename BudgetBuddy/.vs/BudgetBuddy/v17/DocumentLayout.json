@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DOT NET\\BudgetBuddy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\budgetbuddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\budgetbuddy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\migrations\\20251129154640_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\migrations\\20251129154640_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\migrations\\20251129154640_initial create.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\migrations\\20251129154640_initial create.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|c:\\projects\\dot net\\budgetbuddy\\budgetbuddy\\migrations\\20251214163134_initialmigrationbaseline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85ED112C-8D10-45E7-B206-F487C2F50760}|BudgetBuddy\\BudgetBuddy.csproj|solutionrelative:budgetbuddy\\migrations\\20251214163134_initialmigrationbaseline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Models\\Transaction.cs",
+              "RelativeToolTip": "BudgetBuddy\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:10:45.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Models\\Category.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Models\\Category.cs",
+              "RelativeToolTip": "BudgetBuddy\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:10:13.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T02:20:53.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowC8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T06:48:38.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BudgetBuddy\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BudgetBuddy\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAhwAcBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-01T06:56:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BudgetBuddy\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T02:15:59.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T14:42:42.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Program.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Program.cs",
+              "RelativeToolTip": "BudgetBuddy\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:13:35.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "BudgetBuddy\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T02:27:09.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BudgetBuddy\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:19:22.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BudgetBuddy\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T06:24:48.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T13:37:21.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T02:25:58.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-01T06:25:49.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Category\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Category\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T14:48:42.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T16:32:53.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Transaction\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Transaction\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T16:41:38.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-26T17:28:23.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BudgetBuddy\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:09:46.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BudgetBuddy\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:20:43.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BudgetBuddy.csproj",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\BudgetBuddy.csproj",
+              "RelativeDocumentMoniker": "BudgetBuddy\\BudgetBuddy.csproj",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\BudgetBuddy.csproj",
+              "RelativeToolTip": "BudgetBuddy\\BudgetBuddy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T16:11:25.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T02:22:19.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T02:20:31.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BudgetBuddy\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T02:22:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BudgetBuddy\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T16:46:15.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\appsettings.json",
+              "RelativeDocumentMoniker": "BudgetBuddy\\appsettings.json",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\appsettings.json",
+              "RelativeToolTip": "BudgetBuddy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T16:13:07.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251214163134_InitialMigrationBaseline.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Migrations\\20251214163134_InitialMigrationBaseline.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Migrations\\20251214163134_InitialMigrationBaseline.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Migrations\\20251214163134_InitialMigrationBaseline.cs",
+              "RelativeToolTip": "BudgetBuddy\\Migrations\\20251214163134_InitialMigrationBaseline.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:31:35.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251129154640_Initial Create.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Migrations\\20251129154640_Initial Create.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Migrations\\20251129154640_Initial Create.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Migrations\\20251129154640_Initial Create.cs",
+              "RelativeToolTip": "BudgetBuddy\\Migrations\\20251129154640_Initial Create.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:19:41.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20251129154640_Initial Create.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Migrations\\20251129154640_Initial Create.Designer.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Migrations\\20251129154640_Initial Create.Designer.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Migrations\\20251129154640_Initial Create.Designer.cs",
+              "RelativeToolTip": "BudgetBuddy\\Migrations\\20251129154640_Initial Create.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwFIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:21:09.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BudgetBuddy\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projects\\DOT NET\\BudgetBuddy\\BudgetBuddy\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BudgetBuddy\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T16:20:07.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
