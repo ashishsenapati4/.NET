@@ -1,4 +1,3 @@
-Reference - YouTube tutorial
 Budget Buddy application lets you record and manage your transactions. Provides a rich dashboard that lets you analyze your
 income and expense trends effectively.
 
@@ -15,3 +14,4 @@ All Categories & Add Category:-
 <img width="954" height="493" alt="image" src="https://github.com/user-attachments/assets/ef082c35-8e16-4050-a9e0-be640168b0d1" />
 <img width="956" height="499" alt="image" src="https://github.com/user-attachments/assets/7ddd0a21-ee23-4c62-b236-028582aff380" />
 
+Reference - YouTube tutorial
