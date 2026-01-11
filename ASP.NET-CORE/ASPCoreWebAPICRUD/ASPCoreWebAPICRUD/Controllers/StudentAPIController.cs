@@ -5,78 +5,81 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ASPCoreWebAPICRUD.Controllers
 {
-    [Route("api/[controller]")]
+   
     [ApiController]
-    public class StudentAPIController : ControllerBase
+    [Route("api/[Controller]")]
+    public class StudentAPIController : Controller
     {
-        private readonly MyDbContext dbContext;
-        public StudentAPIController(MyDbContext context) {
-            this.dbContext = context;
+        private readonly MyDbContext myDbContext;
+        public StudentAPIController(MyDbContext _dbContext)
+        {
+            myDbContext = _dbContext;
         }
 
         [HttpGet]
-        public async Task<ActionResult<List<Student>>> GetStudents()
+        public async Task<ActionResult<List<Student>>> GetAllStudent()
         {
-            var students = await dbContext.Students.ToListAsync();
+            var students = await myDbContext.Students.ToListAsync();
             return Ok(students);
         }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<Student>> GetStudentById(int id)
         {
-            var student = await dbContext.Students.FindAsync(id);
 
-            if (student == null)
+            var student = await myDbContext.Students.FirstOrDefaultAsync(x => x.Id == id);
+            if(student == null)
             {
                 return NotFound();
             }
-
             return Ok(student);
         }
 
         [HttpPost]
-        public async Task<ActionResult<Student>> AddStudent(Student student)
+        public async Task<ActionResult<Student>> AddOrUpdateStudent(Student std)
         {
-            if (student == null)
+            if(std.Id == null || std.Id == 0)
             {
-                return NotFound();
+                //insert
+                await myDbContext.Students.AddAsync(std);
+                await myDbContext.SaveChangesAsync();
+                return Ok(std);
             }
             else
             {
-                await dbContext.Students.AddAsync(student);
-                await dbContext.SaveChangesAsync();
+                //update
+                var exStudent = await myDbContext.Students.FindAsync(std.Id);
+                if(exStudent == null)
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    exStudent.StudentName = std.StudentName;
+                    exStudent.FatherName = std.FatherName;
+                    exStudent.StudentGender = std.StudentGender;
+                    exStudent.Age = std.Age;
+                    exStudent.Standard = std.Standard;
+                    myDbContext.Students.Update(exStudent);
+                    await myDbContext.SaveChangesAsync();
+                    return Ok(exStudent);
+                }
             }
-
-            return Ok(student);
-        }
-
-        [HttpPut("{id}")]
-        public async Task<ActionResult<Student>> UpdateStudentById(int id, Student std)
-        {
-            if(id != std.Id)
-            {
-                return BadRequest();
-            }
-
-            dbContext.Entry(std).State = EntityState.Modified;
-            await dbContext.SaveChangesAsync();
-
-            return Ok(std);
         }
 
         [HttpDelete("{id}")]
         public async Task<ActionResult<Student>> DeleteStudent(int id)
         {
-            var std = await dbContext.Students.FindAsync(id);
-
-            if(std == null)
+            var student = await myDbContext.Students.FindAsync(id);
+            if(student == null)
             {
                 return NotFound();
             }
-            dbContext.Students.Remove(std);
-            await dbContext.SaveChangesAsync();
 
-            return Ok();
+            myDbContext.Students.Remove(student);
+            await myDbContext.SaveChangesAsync();
+            return Ok("Deleted");
+
         }
     }
 }

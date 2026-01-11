@@ -7,9 +7,9 @@ namespace ASPCoreWebAPICRUD.Models
 {
     public partial class MyDbContext : DbContext
     {
-        public MyDbContext()
-        {
-        }
+        //public MyDbContext()
+        //{
+        //}
 
         public MyDbContext(DbContextOptions<MyDbContext> options)
             : base(options)
