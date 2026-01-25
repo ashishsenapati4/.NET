@@ -32,7 +32,10 @@ namespace FilterEx.Controllers
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
-        [MySampleAsyncActionFilterAttribute("GetAction")]
+        [MySampleActionFilter("Action", -10)]
+        [MySampleResourceFilter("Action")]
+        //[ServiceFilter(typeof(MySampleResultFilterAttribute))]
+        [TypeFilter(typeof(MySampleResultFilterAttribute), Arguments = new Object[] {"Action"})]
         public IEnumerable<WeatherForecast> Get()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast

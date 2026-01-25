@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - @ViewData["ApplicationName"]</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ViewExample.styles.css" asp-append-version="true" />
+</head>
+@* <body>
+    <table style="width:1000px; font-family:Arial; border:2px solid red">
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <h3>Website Header</h3>
+            </td>
+        </tr>
+        <tr>
+            <td width="200px">
+                <h3>Left Navigation Menu</h3>
+            </td>
+            <td width="800px">
+                @RenderBody()
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:left">
+                @await RenderSectionAsync("RecentComments",false);
+            </td>
+        </tr>
+    </table>
+</body> *@
+
+<body>
+    <header>
+        <h1>@ViewData["header"]</h1>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <p>@DateTime.Now.Year © My News Site. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>

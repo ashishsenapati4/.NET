@@ -18,12 +18,12 @@ namespace FilterEx
 
         public void OnActionExecuted(ActionExecutedContext context)
         {
-            Console.WriteLine("OnActionExecuted... - "+_name);
+            Console.WriteLine($"Action Filter - After  {_name} {Order}");
         }
 
         public void OnActionExecuting(ActionExecutingContext context)
         {
-            Console.WriteLine("OnActionExecuting... - "+_name);
+            Console.WriteLine($"Action Filter - Before {_name} {Order}");
         }
     }
 }
