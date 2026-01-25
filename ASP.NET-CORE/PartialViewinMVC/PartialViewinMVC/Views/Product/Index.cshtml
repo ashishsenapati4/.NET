@@ -1,0 +1,39 @@
+﻿@model IEnumerable<PartialViewinMVC.Models.Product>
+@{
+    ViewData["Title"] = "Product Index";
+}
+
+<div>
+    <h4>All Products</h4>
+    <div>
+        <table class="table">
+            <tr>
+                <th>
+                    ProductID
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Category
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Price
+                </th>
+            </tr>
+
+            @foreach(var item in Model)
+            {
+                @* using _ProductPartial view inside index.cshtml *@
+                @* @await Html.PartialAsync("_ProductPartial",item)  *@
+
+                @* Using Partial Tag helper to Render Partial View *@
+                <partial name="_ProductPartial" model="item" />
+            }
+
+        </table>
+    </div>
+</div>

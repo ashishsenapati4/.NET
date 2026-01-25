@@ -1,0 +1,34 @@
+﻿@* @model Product *@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="someDiv" class="text-left">
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js">
+
+</script>
+<script>
+    $(document).ready(function (){
+        var rawdata = {'ProductId': '10'};
+
+        $.ajax({
+            type: "GET",
+            url: "/Home/Details/",
+            data: rawdata,
+            success: function(viewHTML){
+                $("#someDiv").html(viewHTML);
+            },
+
+            error: function(errorData){
+                onError(errorData);
+            }
+        });
+    });
+    
+    function onError(errorData)
+    {
+        alert("An error occurred: "+errorData.responseText);
+    }
+</script>
