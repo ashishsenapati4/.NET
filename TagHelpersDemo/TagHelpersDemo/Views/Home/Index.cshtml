@@ -1,0 +1,39 @@
+﻿@model List<TagHelpersDemo.Models.Student>
+@{
+    ViewData["Title"] = "Student Index";
+}
+
+<div class="col-sm-8">
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>StudentID</th>
+                <th>Name</th>
+                <th>Branch</th>
+                <th>Details</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            
+            
+                @foreach (var student in Model)
+                {
+                    <tr>
+                    <td>@student.StudentId</td>
+                    <td>@student.Name</td>
+                    <td>@student.Branch</td>
+                    <td>
+                        @* <a class="btn btn-primary" href="/Home/Details/@student.StudentId" role="button">View</a> *@
+
+                        @* Using tag helpers *@
+                        <a asp-action="Details" asp-controller="Home" asp-route-id="@student.StudentId" class="btn btn-primary">View</a>
+                    </td>
+                    </tr>
+                
+            }
+            <h3>@DateTime.Now</h3>
+        </tbody>
+    </table>
+
+</div>

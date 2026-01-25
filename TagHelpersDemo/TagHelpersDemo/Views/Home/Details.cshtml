@@ -1,0 +1,19 @@
+﻿@model TagHelpersDemo.Models.Student
+@{
+    ViewBag.Title = "Student Details";
+}
+<div class="card text-center">
+    <div class="card-header">
+        <h4>@Model?.Name</h4>
+    </div>
+    <div class="card-body">
+        <h5>@Model.StudentId</h5>
+        <h5>@Model.Gender</h5>
+        <h5>@Model.Branch</h5>
+        <h5>@Model.Section</h5>
+        
+    </div>
+    <div class="card-footer text-muted">
+        Student Details
+    </div>
+</div>

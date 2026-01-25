@@ -1,0 +1,26 @@
+﻿@using RazorDemo.Models
+@{
+    ViewData["Title"] = "Razor Syntax Demo";
+}
+
+
+@{
+    var product = new Product()
+    {
+        ProductID=1,
+        Name="Product 1",
+        Price = 7899,
+        Category="Category 1",
+        Description="Product 1 Description"
+    };
+}
+<div class="text-center">
+    <h3>@product.ProductID
+    <br />
+    @product.Name <br />
+    @product.Price<br/>
+    @product.Category<br/>
+    @product.Description<br/>
+</h3>
+    
+</div>

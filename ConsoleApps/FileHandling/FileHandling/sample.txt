@@ -1,0 +1,10 @@
+-------File Information--------
+File length :- 0
+File name :- C:\Projects\FileHandling\FileHandling\sample.txt
+File creation time :- 17-01-2026 10:31:20
+-------------------------------
+-------File Information--------
+File length :- 190
+File name :- C:\Projects\FileHandling\FileHandling\sample.txt
+File creation time :- 17-01-2026 10:31:20
+-------------------------------
